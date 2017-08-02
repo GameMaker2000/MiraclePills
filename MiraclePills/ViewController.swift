@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
 var test = "testing"
 var number = 4
+var string = "test"
     
     override func viewDidLoad() {
         super.viewDidLoad()
