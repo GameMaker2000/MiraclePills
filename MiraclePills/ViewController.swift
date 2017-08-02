@@ -14,6 +14,7 @@ var test = "testing"
 var number = 4
 var string = "test"
     var variable = "yes"
+    var new = "New variable"
     
     override func viewDidLoad() {
         super.viewDidLoad()
